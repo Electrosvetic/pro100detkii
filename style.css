@@ -1,0 +1,19 @@
+img{
+	width: 500px;
+	transition: 1.7s;
+}
+
+img:hover{
+	width: 520px;
+	transition: 1.7s;
+}
+
+body{
+	font-family: Roboto;
+	background-image:  url(http://www.example.com/bck.png);
+	background-color: #1E90FF;
+}
+p{
+	width: 500px;
+	height: 112px;
+}
